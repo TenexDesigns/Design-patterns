@@ -35,6 +35,86 @@ These patterns deal with object collaboration, responsibilities, and algorithms.
 22. **Template Method**: Defines the structure of an algorithm, allowing subclasses to provide specific implementations for certain steps.
 23. **Visitor**: Separates an algorithm from an object structure on which it operates. Allows adding new operations to objects without modifying their classes.
 
-These 23 design patterns collectively form a comprehensive set of solutions to recurring design problems in software development. Each pattern addresses a specific concern, and by understanding and applying these patterns appropriately, developers can create more maintainable, flexible, and modular software systems.
+These 23 design patterns collectively form a comprehensive set of solutions to recurring design problems in software development. Each pattern addresses a specific concern,
+and by understanding and applying these patterns appropriately, developers can create more maintainable, flexible, and modular software systems.
+
+
+
+
+MORE EXPLANANTION
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+  The 23 classic design patterns, as cataloged by the Gang of Four, fall into three categories: Creational, Structural, and Behavioral. 
+
+- **Creational Patterns**: These patterns deal with object creation mechanisms, trying to create objects in a manner suitable to the situation. The basic form of object creation could result in design problems or add complexity to the design. Creational design patterns solve this problem by somehow controlling this object creation. The Creational patterns include: 
+
+    - Abstract Factory
+    - Builder
+    - Factory Method
+    - Prototype
+    - Singleton
+  
+  [Source 12](https://en.wikipedia.org/wiki/Design_Patterns)
+
+- **Structural Patterns**: These patterns concern class and object composition. They use inheritance to compose interfaces and define ways to compose objects to obtain new functionality. The Structural patterns include: 
+
+    - Adapter
+    - Bridge
+    - Composite
+    - Decorator
+    - Facade
+    - Flyweight
+    - Proxy
+    
+  [Source 12](https://en.wikipedia.org/wiki/Design_Patterns)
+
+- **Behavioral Patterns**: These patterns are specifically concerned with communication between objects, how they interact and distribute responsibility. The Behavioral patterns include:
+
+    - Chain of Responsibility
+    - Command
+    - Interpreter
+    - Iterator
+    - Mediator
+    - Memento
+    - Observer
+    - State
+    - Strategy
+    - Template Method
+    - Visitor
+    
+  [Source 12](https://en.wikipedia.org/wiki/Design_Patterns)
+
+These design patterns provide solutions to common design issues in object-oriented programming. They represent best practices and can speed up the development process by providing tested, proven development paradigms [Source 0](https://www.digitalocean.com/community/tutorials/gangs-of-four-gof-design-patterns).
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 
 
