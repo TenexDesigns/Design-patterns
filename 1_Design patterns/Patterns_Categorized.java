@@ -1,6 +1,6 @@
 Certainly! Here's a list of the 23 classic design patterns categorized into the three groups: Creational, Structural, and Behavioral, as introduced by the Gang of Four:
 
-**Creational Design Patterns:**
+**Creational Design Patterns:** -How objects are made
 These patterns deal with object creation mechanisms, trying to create objects in a manner suitable to the situation.
 
 1. **Factory Method**: Provides an interface for creating objects but allows subclasses to alter the type of objects that will be created.
@@ -9,7 +9,7 @@ These patterns deal with object creation mechanisms, trying to create objects in
 4. **Prototype**: Creates new objects by copying an existing object's properties, avoiding the need to create new instances from scratch.
 5. **Singleton**: Ensures that a class has only one instance and provides a global point of access to that instance.
 
-**Structural Design Patterns:**
+**Structural Design Patterns:** - How objects relate to each other
 These patterns deal with the composition of classes and objects to form larger structures.
 
 6. **Adapter**: Converts the interface of one class into another interface clients expect. Allows classes with incompatible interfaces to work together.
@@ -20,7 +20,7 @@ These patterns deal with the composition of classes and objects to form larger s
 11. **Flyweight**: Shares objects to reduce memory usage by reusing common parts of the object across multiple instances.
 12. **Proxy**: Provides a surrogate or placeholder for another object to control access, add behavior, or defer instantiation.
 
-**Behavioral Design Patterns:**
+**Behavioral Design Patterns:** - How objects communicate with each other
 These patterns deal with object collaboration, responsibilities, and algorithms.
 
 13. **Chain of Responsibility**: Creates a chain of handler objects for a request, allowing the request to be handled by different handlers in the chain.
